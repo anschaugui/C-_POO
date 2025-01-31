@@ -1,0 +1,15 @@
+/home/guilherme-anschau/cSharpPoo/bin/Debug/net6.0/cSharpPoo
+/home/guilherme-anschau/cSharpPoo/bin/Debug/net6.0/cSharpPoo.deps.json
+/home/guilherme-anschau/cSharpPoo/bin/Debug/net6.0/cSharpPoo.runtimeconfig.json
+/home/guilherme-anschau/cSharpPoo/bin/Debug/net6.0/cSharpPoo.dll
+/home/guilherme-anschau/cSharpPoo/bin/Debug/net6.0/cSharpPoo.pdb
+/home/guilherme-anschau/cSharpPoo/obj/Debug/net6.0/cSharpPoo.csproj.AssemblyReference.cache
+/home/guilherme-anschau/cSharpPoo/obj/Debug/net6.0/cSharpPoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilherme-anschau/cSharpPoo/obj/Debug/net6.0/cSharpPoo.AssemblyInfoInputs.cache
+/home/guilherme-anschau/cSharpPoo/obj/Debug/net6.0/cSharpPoo.AssemblyInfo.cs
+/home/guilherme-anschau/cSharpPoo/obj/Debug/net6.0/cSharpPoo.csproj.CoreCompileInputs.cache
+/home/guilherme-anschau/cSharpPoo/obj/Debug/net6.0/cSharpPoo.dll
+/home/guilherme-anschau/cSharpPoo/obj/Debug/net6.0/refint/cSharpPoo.dll
+/home/guilherme-anschau/cSharpPoo/obj/Debug/net6.0/cSharpPoo.pdb
+/home/guilherme-anschau/cSharpPoo/obj/Debug/net6.0/cSharpPoo.genruntimeconfig.cache
+/home/guilherme-anschau/cSharpPoo/obj/Debug/net6.0/ref/cSharpPoo.dll
